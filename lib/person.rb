@@ -1,3 +1,11 @@
 class Person
-  #your code here
+  
+  attr_accessor 
+  
+  def initialize(some_hash)
+    
+    
+    
+  end
+  
 end
